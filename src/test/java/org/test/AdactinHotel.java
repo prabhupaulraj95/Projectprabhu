@@ -38,6 +38,7 @@ public class AdactinHotel extends BaseClass
 		Date d=new Date();
 		System.out.println("Starting Time:"+d);
 		System.out.println("Beforemethod");
+		System.out.println("HAI");
     }
     @AfterMethod
     private void Aftermethod() 
